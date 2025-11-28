@@ -1,0 +1,56 @@
+Encounter ID,Encounter Type ID,Positive Case ID,Contact ID,Location Name,Location Address,From,To
+1,2,3,5,Mac Donald,via Alberto Lionello 201 Roma,2021-10-11 00:59:30,2021-10-11 02:00:00
+2,2,7,5,Ristorante ,viale Liegi 14,2021-10-19 08:01:31,2021-10-19 11:01:31
+3,2,8,2,Bar,largo Francesco Vito 1,2021-10-14 04:02:02,2021-10-14 05:02:02
+4,2,10,9,Bar , via Ottaviano,2021-10-23 02:02:27,2021-10-23 03:03:27
+5,1,3,,Mac Donald,via Alberto Lionello 201 Roma,2021-10-11 00:07:00,2021-10-11 02:07:00
+6,1,7,,Ristorante,viale Liegi 14,2021-10-19 08:08:34,2021-10-19 11:08:34
+7,1,8,,Bar,largo Francesco Vito 1,2021-10-14 04:09:35,2021-10-14 05:09:35
+8,1,10,,Bar,via Ottaviano,2021-10-23 02:10:11,2021-10-23 03:16:11
+9,1,13,,Pizzeria,via Nazionale,120 Roma,2021-10-02 02:06:53,2021-10-02 02:30:53
+10,2,13,14,Pizzeria,via Nazionale,120 Roma,2021-10-02 02:13:59,2021-10-02 02:30:59
+11,1,15,,Ristorante ,via della Farnesina, Roma,2021-10-14 01:30:09,2021-10-14 02:43:09
+12,2,15,16,Ristorante,via della Farnesina, Roma,2021-10-14 01:45:00,2021-10-14 02:32:00
+13,1,17,,Palestra Virgin,viale Cortina d'Ampezzo, Roma,2021-10-20 03:57:07,2021-10-20 04:57:07
+14,2,17,18,Palestra Virgin,viale Cortina d'Ampezzo, Roma,2021-10-20 03:58:06,2021-10-20 04:58:06
+15,1,19,,Bar,via Moscati, Roma,2021-10-17 04:08:30,2021-10-17 05:08:30
+16,2,19,21,Bar,via Moscati, Roma,2021-10-17 04:10:48,2021-10-17 05:00:48
+17,1,23,,Scuola Elementare Calasanzio,via Cortina d'Ampezzo, Roma,2021-10-13 07:15:52,2021-10-15 04:15:52
+18,2,23,24,Scuola Elementare Calasanzio,via Cortina d'Ampezzo, Roma,2021-10-14 01:17:54,2021-10-15 04:17:54
+19,2,23,25,Scuola Elementare Calasanzio,via Cortina d'Ampezzo, Roma,2021-10-15 08:05:02,2021-10-15 04:19:14
+20,1,27,,Domicilio,via dei Castani,125 Roma,,
+21,2,27,29,Domicilio,via dei Castani,125 Roma,,
+22,2,27,28,Domicilio,via dei Castani,125 Roma,,
+23,2,28,30,Domicilio,via dei Castani,125 Roma,,
+24,1,30,,Palestra ,via delle Robinie 69, Roma,,
+25,2,30,31,Palestra,via delle Robinie 69, Roma,,
+26,2,30,32,Palestra,via delle Robinie 69, Roma,,
+27,2,30,33,Palestra,via dei Castani,125 Roma,,
+28,2,33,34,Domicilio,via delle Acacie 12, Roma,,
+29,2,33,35,Domicilio,via delle Acacie 12, Roma,,
+30,1,35,,Pizzeria,piazza dei Mirti, Roma,,
+31,2,35,36,Pizzeria,piazza dei Mirti, Roma,,
+32,1,34,,Negozio Euronics,via di Valle Aurelia 30, 00167 Roma ,,
+33,2,34,37,Negozio Euronics,via di Valle Aurelia 30, 00167 Roma ,,
+34,2,34,38,Negozio Euronics,via di Valle Aurelia 30, 00167 Roma ,,
+35,2,34,39,Negozio Euronics,via di Valle Aurelia 30, 00167 Roma ,,
+36,1,40,,Liceo Scientifico Farnesina, via dei Giuochi Istmici, 46 - 00135 Roma (RM),,
+37,2,40,41,Liceo Scientifico Farnesina,via dei Giuochi Istmici, 46 - 00135 Roma (RM),,
+38,2,40,42,Liceo Scientifico Farnesina,via dei Giuochi Istmici, 46 - 00135 Roma (RM),,
+39,2,40,43,Liceo Scientifico Farnesina,via dei Giuochi Istmici, 46 - 00135 Roma (RM),,
+42,1,47,,Cassia Leto,viale Portuense 2000, Roma,,
+43,2,47,48,Cinema,viale Portuense 2000, Roma,,
+44,1,49,,Scuola media Statale,Via Merulana 521, Roma,,
+45,2,48,49,Scuola media Statale,Via Merulana 521, Roma,,
+46,2,49,50,domicilio,VIa Mecenate, Roma,,
+47,1,50,,Conad,via Merulana,,
+48,2,50,51,Conad,Via Merulana,,
+49,2,50,52,Conad,Via Merulana,,
+50,1,57,,Cucina della Nave,Cucina della Nave,2022-01-10 08:00:00,2022-01-20 18:00:00
+51,2,57,58,Cucina della Nave,Cucina della Nave,2022-01-10 08:00:00,2022-01-20 18:00:00
+52,1,58,,Mensa della Nave,Mensa della Nave,2022-01-19 12:00:00,2022-01-19 13:00:00
+53,2,58,59,Mensa della Nave,Mensa della Nave,2022-01-19 12:00:00,2022-01-19 13:00:00
+54,1,59,,Plancia della Nave,Plancia della Nave,2022-01-22 16:00:00,2022-01-22 17:00:00
+55,2,59,60,Plancia della Nave,Plancia della Nave,2022-01-10 08:00:00,2022-01-27 17:00:00
+56,1,59,,Bar della Nave,Bar della Nave,2022-01-23 07:00:00,2022-01-23 08:00:00
+57,2,59,63,Bar della Nave,Bar della Nave,2022-01-23 07:00:00,2022-01-23 08:00:00
